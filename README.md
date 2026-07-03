@@ -86,12 +86,6 @@ If you find this work useful in your research, please cite:
 }
 ```
 
-## Institutions
-
-- Shanghai Jiao Tong University
-- South China University of Technology
-- Xiamen University
-- University of Science and Technology of China
 
 ## License
 
