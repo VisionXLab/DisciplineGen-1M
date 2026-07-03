@@ -87,12 +87,3 @@ If you find this work useful in your research, please cite:
 ```
 
 
-## License
-
-This dataset is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-
----
-
-<p align="center">
-  🔗 For more information, visit the <a href="https://disciplinegen.github.io/">project page</a>
-</p>
