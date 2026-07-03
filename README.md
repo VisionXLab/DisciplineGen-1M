@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Zhaokai Wang</strong><sup>1*</sup>, <strong>Mingxin Liu</strong><sup>1</sup>, <strong>Zirun Zhu</strong><sup>1</sup>, <strong>Ziqian Fan</strong><sup>2</sup>, <strong>Yiguo He</strong><sup>1</sup>, <strong>Mohan Zhang</strong><sup>3</sup>, <strong>Leyao Gu</strong><sup>1</sup>, <strong>Xiangyu Zhao</strong><sup>1</sup>, <strong>Ning Liao</strong><sup>1</sup>, <strong>Shaofeng Zhang</strong><sup>4</sup>, <strong>Xuanhe Zhou</strong><sup>1</sup>, <strong>Zhihang Zhong</strong><sup>1</sup>, <strong>Junchi Yan</strong><sup>1</sup>, <strong>Xue Yang</strong><sup>1†</sup>
+  <strong>Zhaokai Wang</strong><sup>1*‡</sup>, <strong>Mingxin Liu</strong><sup>1*</sup>, <strong>Zirun Zhu</strong><sup>1*</sup>, <strong>Ziqian Fan</strong><sup>2*</sup>, <strong>Yiguo He</strong><sup>1*</sup>, <strong>Mohan Zhang</strong><sup>3</sup>, <strong>Leyao Gu</strong><sup>1</sup>, <strong>Xiangyu Zhao</strong><sup>1</sup>, <strong>Ning Liao</strong><sup>1</sup>, <strong>Shaofeng Zhang</strong><sup>4</sup>, <strong>Xuanhe Zhou</strong><sup>1</sup>, <strong>Zhihang Zhong</strong><sup>1</sup>, <strong>Junchi Yan</strong><sup>1</sup>, <strong>Xue Yang</strong><sup>1†</sup>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <sup>*</sup>Project Lead&emsp;&emsp;<sup>†</sup>Corresponding Author
+  <sup>*</sup>Equal Contribution&emsp;&emsp;<sup>‡</sup>Project Lead&emsp;&emsp;<sup>†</sup>Corresponding Author
 </p>
 
 ## Overview
