@@ -1,0 +1,104 @@
+# Core carbohydrate foods
+white rice	白米饭
+brown rice	糙米饭
+oatmeal	燕麦粥
+rolled oats	燕麦片
+quinoa	藜麦
+barley	大麦
+whole wheat bread	全麦面包
+white bread	白面包
+bagel	贝果
+pasta	意大利面
+noodles	面条
+sweet potato	红薯
+potato	土豆
+corn	玉米
+corn flakes	玉米片
+rice cake	米饼
+banana	香蕉
+apple	苹果
+orange	橙子
+grapes	葡萄
+blueberries	蓝莓
+strawberries	草莓
+pineapple	菠萝
+watermelon	西瓜
+raisins	葡萄干
+honey	蜂蜜
+
+# Lean animal protein foods
+egg	鸡蛋
+egg white	蛋清
+chicken breast	鸡胸肉
+lean beef	瘦牛肉
+beef steak	牛排
+pork loin	猪里脊
+salmon	三文鱼
+tuna	金枪鱼
+shrimp	虾
+cod	鳕鱼
+tilapia	罗非鱼
+sardines	沙丁鱼
+yogurt	酸奶
+cottage cheese	茅屋奶酪
+low fat milk	低脂牛奶
+skim milk	脱脂牛奶
+whey protein	乳清蛋白
+
+# Plant protein foods
+tofu	豆腐
+edamame	毛豆
+soy milk	豆奶
+black beans	黑豆
+kidney beans	芸豆
+chickpeas	鹰嘴豆
+lentils	扁豆
+green peas	青豌豆
+soybeans	黄豆
+
+# Vegetables and legumes
+broccoli	西兰花
+spinach	菠菜
+kale	羽衣甘蓝
+lettuce	生菜
+cabbage	卷心菜
+cauliflower	花椰菜
+carrot	胡萝卜
+tomato	番茄
+cucumber	黄瓜
+bell pepper	甜椒
+mushrooms	蘑菇
+onion	洋葱
+garlic	大蒜
+asparagus	芦笋
+green beans	四季豆
+zucchini	西葫芦
+pumpkin	南瓜
+beets	甜菜
+seaweed	海藻
+
+# Fruits
+avocado	牛油果
+kiwi	猕猴桃
+pear	梨
+peach	桃子
+mango	芒果
+grapefruit	西柚
+lemon	柠檬
+lime	青柠
+cherries	樱桃
+raspberries	覆盆子
+
+# Fat-dominant foods
+olive oil	橄榄油
+almonds	杏仁
+walnuts	核桃
+cashews	腰果
+peanut butter	花生酱
+natural peanut butter	天然花生酱
+mixed nuts	混合坚果
+chia seeds	奇亚籽
+flax seeds	亚麻籽
+sunflower seeds	葵花籽
+pumpkin seeds	南瓜籽
+sesame seeds	芝麻

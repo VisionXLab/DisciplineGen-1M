@@ -1,0 +1,57 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+
+# Secrets and private keys
+*_ssh_key/
+ailab_ssh_key/
+id_rsa*
+id_ed25519*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Raw data, generated datasets, and temporary artifacts
+raw_data/
+outputs/
+test_output/
+board_games/
+board_game_dataset_construction/
+sports/
+sports_anatomy/
+tmp/
+tmp*/
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tar.bz2
+*.zst
+*.pgn
+*.sgf
+*.jsonl
+
+# Keep small examples and documented templates
+!raw_data/.gitkeep
+!raw_data/**/*.example.jsonl
+!scripts/**/*.example.json
+!scripts/**/*.example.jsonl
+
+# Local figures and scratch exports
+figure*.pdf
+figure*.pptx
+scripts.zip
+*.log

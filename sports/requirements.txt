@@ -1,0 +1,5 @@
+pillow>=10.0
+python-chess>=1.999
+cairosvg>=2.7
+tqdm>=4.66
+
