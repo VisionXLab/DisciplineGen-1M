@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Zhaokai Wang</strong><sup>1*‡</sup>, <strong>Mingxin Liu</strong><sup>1*</sup>, <strong>Zirun Zhu</strong><sup>1*</sup>, <strong>Ziqian Fan</strong><sup>2*</sup>, <strong>Yiguo He</strong><sup>1*</sup>, <strong>Mohan Zhang</strong><sup>3</sup>, <strong>Leyao Gu</strong><sup>1</sup>, <strong>Xiangyu Zhao</strong><sup>1</sup>, <strong>Ning Liao</strong><sup>1</sup>, <strong>Shaofeng Zhang</strong><sup>4</sup>, <strong>Xuanhe Zhou</strong><sup>1</sup>, <strong>Zhihang Zhong</strong><sup>1</sup>, <strong>Junchi Yan</strong><sup>1</sup>, <strong>Xue Yang</strong><sup>1†</sup>
+  <strong>Zhaokai Wang</strong><sup>1*‡</sup>, <strong>Mingxin Liu</strong><sup>1*</sup>, <strong>Zirun Zhu</strong><sup>1*</sup>, <strong>Ziqian Fan</strong><sup>2*</sup>, <strong>Yiguo He</strong><sup>1*</sup>, <strong>Mohan Zhang</strong><sup>3</sup>, <strong>Leyao Gu</strong><sup>1</sup>, <strong>Yan Li</strong><sup>1</sup>, <strong>Xiangyu Zhao</strong><sup>1</sup>, <strong>Ning Liao</strong><sup>1</sup>, <strong>Shaofeng Zhang</strong><sup>4</sup>, <strong>Xuanhe Zhou</strong><sup>1</sup>, <strong>Zhihang Zhong</strong><sup>1</sup>, <strong>Xue Yang</strong><sup>1†</sup>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ The dataset was constructed using a scalable framework combining **four compleme
 
 ![Multidisciplinary Data Construction](images/multidisciplinary-data-construction.png)
 
-1. **Vector-Graphics Rendering (SVG/TikZ)**: Structured rendering from vector graphics formats
+1. **Structured Rendering (SVG/TikZ)**: Structured rendering from vector graphics formats
 2. **OCR-Based Editing**: Optical character recognition for creating editing pairs
 3. **Large-Scale T2I Filtering**: Filtering text-to-image data at scale
 4. **Specialized Programmatic Synthesis**: Curated programmatic generation of disciplinary content
@@ -75,14 +75,11 @@ Our approach demonstrates:
 If you find this work useful in your research, please cite:
 
 ```bibtex
-@misc{wang2026disciplinegen1mlargescaledatasetmultidisciplinary,
-      title={DisciplineGen-1M: A Large-Scale Dataset for Multidisciplinary Visual Generation and Editing}, 
-      author={Zhaokai Wang and Mingxin Liu and Zirun Zhu and Ziqian Fan and Yiguo He and Mohan Zhang and Leyao Gu and Xiangyu Zhao and Ning Liao and Shaofeng Zhang and Xuanhe Zhou and Zhihang Zhong and Junchi Yan and Xue Yang},
-      year={2026},
-      eprint={2607.02290},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2607.02290}, 
+@article{DisciplineGen,
+  title={DisciplineGen-1M: A Large-Scale Dataset for Multidisciplinary Visual Generation and Editing},
+  author = {Wang, Zhaokai and Liu, Mingxin and Zhu, Zirun and Fan, Ziqian and He, Yiguo and Zhang, Mohan and Gu, Leyao and Li, Yan and Zhao, Xiangyu and Liao, Ning and Zhang, Shaofeng and Zhou, Xuanhe and Zhong, Zhihang and Yang, Xue},
+  journal={arXiv preprint arXiv:2607.02290},
+  year={2026}
 }
 ```
 
